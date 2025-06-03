@@ -1,0 +1,2 @@
+channel_type,snr_db,avg_mse,avg_sdr,avg_pesq
+awgn,-5.0,0.00038427598,0.7194526300263981,2.178552313468286
